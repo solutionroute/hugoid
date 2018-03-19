@@ -9,7 +9,7 @@
 ## /partials
 
 
-* pagination-bulma.html; [Bulma][] themed pagination. [screenshot 1](pagination-bulma1.jpg), [screenshot 2](pagination-bulma2.jpg)
+* pagination-bulma.html; [Bulma][] themed pagination. [screenshot 1](screenshots/pagination-bulma1.jpg), [screenshot 2](screenshots/pagination-bulma2.jpg)
 
 
 [Bulma]: https://bulma.io/
