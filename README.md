@@ -3,10 +3,7 @@ Tools, snippets and stuff for Hugo
 
 ## Contents
 
-bin:
+See [docs/README.md](https://github.com/solutionroute/hugoid/tree/master/docs)
+for documentation on the various bits included and links to screenshots where
+appropriate.
 
-	hugodev.sh - script to bind Hugo to first global (not localhost) net adapter
-  
-partials:
-
-	Various partials
