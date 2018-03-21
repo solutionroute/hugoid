@@ -10,6 +10,7 @@
 
 
 * pagination-bulma.html; [Bulma][] themed pagination. [screenshot 1](screenshots/pagination-bulma1.jpg), [screenshot 2](screenshots/pagination-bulma2.jpg)
+* section-crumbs.html; Provides breadcrumb navigation for section (and contents). ![breadcrumb](screenshots/breadcrumb.jpg)
 
 
 [Bulma]: https://bulma.io/
